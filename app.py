@@ -39,20 +39,20 @@ st.markdown("""
 <style>
     .main-header {
         font-size: 2.5rem;
-        color: #1E3A8A;
+        color: #2563EB;
         text-align: center;
         margin-bottom: 1rem;
         padding-bottom: 1rem;
-        border-bottom: 2px solid #E5E7EB;
+        border-bottom: 2px solid #9CA3AF;
     }
     .sub-header {
         font-size: 1.5rem;
-        color: #1E3A8A;
+        color: #2563EB;
         margin-top: 1.5rem;
         margin-bottom: 1rem;
     }
     .info-box {
-        background-color: #F3F4F6;
+        background-color: #E5E7EB;
         padding: 1rem;
         border-radius: 0.5rem;
         margin-bottom: 1rem;
@@ -72,29 +72,29 @@ st.markdown("""
         border-left: 4px solid #F59E0B;
     }
     .source-box {
-        background-color: #EFF6FF;
+        background-color: #E5E7EB;
         padding: 1rem;
         border-radius: 0.5rem;
         margin-bottom: 1rem;
-        border-left: 4px solid #3B82F6;
+        border-left: 4px solid #2563EB;
     }
     .stButton>button {
-        background-color: #1E3A8A;
+        background-color: #2563EB;
         color: white;
         border-radius: 0.5rem;
         padding: 0.5rem 1rem;
         font-weight: bold;
     }
     .stButton>button:hover {
-        background-color: #2563EB;
-        border-color: #2563EB;
+        background-color: #3B82F6;
+        border-color: #3B82F6;
     }
     .sidebar-content {
         padding: 1rem;
     }
     .document-item {
         padding: 0.5rem;
-        border-bottom: 1px solid #E5E7EB;
+        border-bottom: 1px solid #9CA3AF;
     }
 </style>
 """, unsafe_allow_html=True)
