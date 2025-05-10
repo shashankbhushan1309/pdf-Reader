@@ -31,3 +31,5 @@ Thumbs.db
 # Python-specific files
 *.log
 *.sqlite3
+# Environment variables
+.env
